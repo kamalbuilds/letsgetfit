@@ -36,8 +36,8 @@
       "favicon": "./assets/images/favicon.png"
     },
     "extra": {
-      "privyAppId": "<your-privy-app-id>",
-      "privyClientId": "<your-privy-app-client-id>",
+      "privyAppId": "cm6fzqfez01kcxij01uydi4re",
+      "privyClientId": "client-WY5gF6XmFe786wCU5CeRVAqWS8hXcBdvrGgZARac8PBqn",
       "passkeyAssociatedDomain": "https://<your-associated-domain>"
     },
     "plugins": [
